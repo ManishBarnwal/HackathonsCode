@@ -1,2 +1,2 @@
 # HackathonsCode
-This contains the code for hacks I have participated
+This contains the code for hacks I have participated in.
