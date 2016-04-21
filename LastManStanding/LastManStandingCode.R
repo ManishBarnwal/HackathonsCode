@@ -1,9 +1,11 @@
-# Last man standing
+# Author: Manish Barnwal
+# Email: manishbarnwal.iit@gmail.com
+# Project: Last man standing
 
 library(h2o)
 library(mice)
 
-path <- 'C:\\Users\\mbarnwa\\Desktop\\LastManStanding\\data'
+path <- 'Desktop\\LastManStanding\\data'
 setwd(path)
 dir()
 
